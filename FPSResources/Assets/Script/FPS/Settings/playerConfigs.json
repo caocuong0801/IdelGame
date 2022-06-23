@@ -1,0 +1,10 @@
+{
+    "Players": [
+        {
+            "Id": "player1",
+            "Hp": 10,
+            "Strength": 10,
+            "Speed": 3
+        }
+    ]
+}
